@@ -25,7 +25,7 @@ export default function Home() {
       <div className="grid grid-rows-[auto_1fr_auto] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-sans">
         {/* ✅ Your Tailwind test message */}
         <div ref={messageRef} className="text-4xl font-bold text-blue-600">
-          Tailwind is working!
+          Tailwind is working!!!!!!!!!!!
         </div>
 
         <div className="bg-white shadow-lg rounded-lg p-6 max-w-sm mx-auto mt-10">
